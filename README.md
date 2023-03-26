@@ -63,7 +63,7 @@ The purpose of this project is to respond to the following queries:
     
 - Create `dataset` folder
 
-- Download the data source on Kaggle using the link provided below, and then save all the CSV files to folder `dataset`.
+- Download the data source on Kaggle using the link provided in the `Acknowledgements` section, and then save all the CSV files to folder `dataset`.
 
 - Run all cells in the notebook file.
 
