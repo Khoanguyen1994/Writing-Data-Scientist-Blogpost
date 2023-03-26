@@ -60,6 +60,10 @@ The purpose of this project is to respond to the following queries:
 - Use the requirements.txt file to install every package.
 
     `pip install -r requirements.txt` is the installation command.
+    
+- Create `dataset` folder
+
+- Download the data source on Kaggle using the link provided below, and then save all the CSV files to folder `dataset`.
 
 - Run all cells in the notebook file.
 
